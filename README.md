@@ -21,19 +21,19 @@
   playerid: 	the PlayerID for which the zones will show, -1 for all players
   returns: 		ID of the MapHighlight, -1 if no free slot was found
 
-  DestroyMapHighlight(mhlid)
+  ```DestroyMapHighlight(mhlid)```
 
   mhlid: 		the ID of the MapHighlight to destroy
   
   returns: 		1 if it was valid, 0 if not
 
-  IsValidMapHighlight(mhlid)
+  ```IsValidMapHighlight(mhlid)```
 
   mhlid: 		the ID of the MapHighlight
   
   returns: 		1 if it is valid, 0 if not
 
-  SetMapHighlightPlayerID(mhlid, playerid)
+  ```SetMapHighlightPlayerID(mhlid, playerid)```
 
   mhlid:		the ID to set the PlayerID of
   
