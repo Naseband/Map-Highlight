@@ -24,14 +24,17 @@
   DestroyMapHighlight(mhlid)
 
   mhlid: 		the ID of the MapHighlight to destroy
+  
   returns: 		1 if it was valid, 0 if not
 
   IsValidMapHighlight(mhlid)
 
   mhlid: 		the ID of the MapHighlight
+  
   returns: 		1 if it is valid, 0 if not
 
   SetMapHighlightPlayerID(mhlid, playerid)
 
   mhlid:		the ID to set the PlayerID of
+  
   playerid:		the PlayerID to show the zones to, -1 for all players
