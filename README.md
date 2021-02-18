@@ -1,4 +1,4 @@
-# Map Highlighting Include by NaS
+# Map Highlighting Include
 
   With this include you can highlight areas on the ingame map.
   4 GangZones will quickly expand from the specified location, creating a ping effect.
