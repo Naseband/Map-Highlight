@@ -11,15 +11,25 @@
   ```CreateMapHighlight(Float:x, Float:y, color, Float:distance, Float:width, interval, direction, max_steps, pause_time, playerid)```
 
   x, y: 		the 2D position of the center
+  
   color: 		RGBA color
+  
   distance:		distance in m which the ping will travel
+  
   width: 		the width of the zones in m
+  
   interval: 	interval in ms in which the zones will be updated
+  
   direction: 	positive values will move the zones away from the center, negative values will move them towards the center
+  
   max_steps:	the total number of steps the zones will take (they travel 1 step per interval)
+  
   pause_time: 	delay in ms for which the animation will pause after completing one iteration, 0 for none
+  
   playerid: 	the PlayerID for which the zones will show, -1 for all players
+  
   returns: 		ID of the MapHighlight, -1 if no free slot was found
+  
 
   ```DestroyMapHighlight(mhlid)```
 
