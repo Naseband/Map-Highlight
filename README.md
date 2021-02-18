@@ -1,4 +1,4 @@
-#Map Highlighting Include by NaS
+# Map Highlighting Include by NaS
 
   With this include you can highlight areas on the [u]ingame[/u] map.
   4 GangZones will quickly expand from the specified location, creating a ping effect.
@@ -6,7 +6,7 @@
   Since GangZones cannot actually be moved, the script repeatedly creates and destroys them to create a similar effect.
   In the current version only global GangZones are supported.
 
-#Functions:
+# Functions:
 
   CreateMapHighlight(Float:x, Float:y, color, Float:distance, Float:width, interval, direction, max_steps, pause_time, playerid)
 
