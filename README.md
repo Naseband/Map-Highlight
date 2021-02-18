@@ -1,6 +1,6 @@
 # Map Highlighting Include by NaS
 
-  With this include you can highlight areas on the [u]ingame[/u] map.
+  With this include you can highlight areas on the ingame map.
   4 GangZones will quickly expand from the specified location, creating a ping effect.
   This ping effect can be customized, you can change the speed, distance, width, color, direction and delay.
   Since GangZones cannot actually be moved, the script repeatedly creates and destroys them to create a similar effect.
