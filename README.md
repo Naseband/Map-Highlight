@@ -8,7 +8,7 @@
 
 # Functions
 
-  CreateMapHighlight(Float:x, Float:y, color, Float:distance, Float:width, interval, direction, max_steps, pause_time, playerid)
+  ```CreateMapHighlight(Float:x, Float:y, color, Float:distance, Float:width, interval, direction, max_steps, pause_time, playerid)```
 
   x, y: 		the 2D position of the center
   color: 		RGBA color
